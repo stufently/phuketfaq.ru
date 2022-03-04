@@ -1,0 +1,14 @@
+---
+- question: Группа Вопросов
+  hashtag: хэш
+  items:
+    - question: Вопрос
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
+    - question: Вопрос №2
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
