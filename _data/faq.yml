@@ -1,5 +1,5 @@
 ---
-- question: Группа Вопросов
+- question: Общие вопросы
   hashtag: хэш
   items:
     - question: Вопрос
@@ -8,6 +8,29 @@
       answer: |
         Ответ
     - question: Вопрос №2
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
+    - question: Вопрос №3
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
+- question: Общие вопросы 2
+  hashtag: хэш
+  items:
+    - question: Вопрос 1
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
+    - question: Вопрос №2
+      hashtag: Хэш
+      ldjson: yes
+      answer: |
+        Ответ
+    - question: Вопрос №3
       hashtag: Хэш
       ldjson: yes
       answer: |
