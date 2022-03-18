@@ -1,7 +1,7 @@
-<button onclick="topFunction()" id="goTopBtn" title="Go to top">🔝</button>
+<button onclick="topFunction()" id="topBtn" title="Top">🔝</button>
 
 <style lang="css">
-    #goTopBtn {
+    #topBtn {
         display: none;
         position: fixed;
         bottom: 20px;
@@ -17,13 +17,13 @@
         font-size: 18px;
     }
 
-    #goTopBtn:hover {
+    #topBtn:hover {
         background-color: #a3a3a3;
     }
 </style>
 
 <script lang="js">
-    goTopBtn = document.getElementById("goTopBtn");
+    goTopBtn = document.getElementById("topBtn");
     window.onscroll = function() {scrollFunction()};
     function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
