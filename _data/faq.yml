@@ -232,7 +232,7 @@
       hashtag: vac
       ldjson: yes
       answer: |
-        ### Одобрены  для программ Test and Go / «Песочница» h3
+        ## Одобрены  для программ Test and Go / «Песочница» 
                 CoronaVac (Sinovac) - 2 doses
                 AstraZeneca / Covishield - 2 doses
                 Pfizer BioNTech - 2 doses
@@ -241,7 +241,7 @@
                 COVILO (Sinopharm) - 2 doses
                 Sputnik V - 2 doses
                 Covaxin (Bharat Biotech) - 2 doses
-        ### Одобрены только для программы «Песочница» h3
+        ## Одобрены только для программы «Песочница» 
                 Medigen - 2 doses
                 Sputnik Light - 1 dose
     - question: Что такое отели SHA Extra+
