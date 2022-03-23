@@ -213,7 +213,7 @@
       hashtag: sha
       ldjson: yes
       answer: |
-        ### https://shaplushotels.com/ru/
+        ### [https://shaplushotels.com/ru/]
     - question: Сколько сидеть на карантине?
       hashtag: covid19sitdown
       ldjson: yes
