@@ -241,6 +241,7 @@
             COVILO Sinopharm  2 doses
             Sputnik V - 2 doses
             Covaxin Bharat Biotech  2 doses
+            
         ### Одобрены только для программы «Песочница» 
             Medigen  2 doses
             Sputnik Light  1 dose
@@ -255,7 +256,7 @@
       hashtag: pcrphuket
       ldjson: yes
       answer: |
-        * Записаться на ПЦР можно прямо на сайте www.thailandpsas.com
+        * Записаться на ПЦР можно прямо на [сайте](www.thailandpsas.com)
 - question: Правила,Законы,Службы
   hashtag: cpolitica
   items:
