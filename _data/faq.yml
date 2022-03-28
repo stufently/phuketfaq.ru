@@ -387,7 +387,7 @@
 - question: Храмы
   hashtag: khrams
   items:
-   - question: Как проехать до Большого Будды (Big Budda) на Пхукете?
+    - question: Как проехать до Большого Будды (Big Budda) на Пхукете?
       hashtag: khramphuketbud
       ldjson: yes
       answer: |
