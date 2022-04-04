@@ -473,6 +473,13 @@
 - question: Храмы
   hashtag: khrams
   items:
+    - question: Где православный храм на пхукете?
+      hashtag: khramphuketprovoslavny
+      ldjson: yes
+      answer: |
+       * 121 and 121/1 Moo 7 Nanai soi 8 Tambon Thepkasattre Ampur Thalang, Thalang District, Phuket 83110, Таиланд
+        Время работы - с 8 до 20
+        Можете ознакомиться на сайте [http://phuket.ortox.ru/](Храм Святой Троицы)
     - question: Как проехать до Большого Будды (Big Budda) на Пхукете?
       hashtag: khramphuketbud
       ldjson: yes
