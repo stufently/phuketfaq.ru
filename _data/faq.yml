@@ -693,3 +693,17 @@
       answer: |
         
         * В разных районах Пхукета работают отдельные кафе и рестораны, предлагающие доставку по району. Обычно у них есть листовки с меню. Доставка может быть бесплатной или за дополнительные 40-50 бат. И ещё один вариант для заказа еды — приложение Grab.
+
+- question: Школа
+  hashtag: shkola
+  items:
+    - question: Есть ли русская школа на пхукете?
+      hashtag: shkolarus
+      ldjson: yes
+      answer: |
+        
+       * Да Русская школа есть она находится по Адресу 28, Soi Chalong, Tambon Chalong, Mueang Phuket District, Phuket 83100, Таиланд
+        
+         Предворительную запись можно сделать через  [https://www.facebook.com/RusSvet.Thai/](facebook) или [https://instagram.com/p/BoY68AJF--8/](instagram)
+         Русская школа на Пхукете для детей от 5 до 15 лет.  
+       
