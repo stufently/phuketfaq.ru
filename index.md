@@ -1,27 +1,24 @@
 ---
 layout: faq
 ---
-{% assign faqsize = site.data.faq | map: 'items' | flatten | where:"ldjson", true | size %}
+{% include faq.scheme.md %}
 
-{%- if site.data.faq -%}
-{%- if faqsize -%}
-{%- assign schema_items = site.data.faq | map: 'items' | flatten | where:"ldjson", true | faq_items | join: "," -%}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity": {{ schema_items }} }</script>
-{%- endif -%}
-{%- endif -%}
+{%- for group in site.data.faq_groups -%} {%- assign group_path = '/' | append: group.path | downcase | append: '/' -%}
 
-{% for group in site.data.faq %}
+- [{{ group.title }}](#{{ group.hashtag }})
+  {%- for item in site.faq %} {% if item.path contains group_path %}
+    - [{{ item.question }}](#{{ item.hashtag }}){% endif %} {% endfor %}
 
-- [{{ group.question }}](#{{ group.hashtag }})
-  {% for item in group.items %}- [{{ item.question }}](#{{ item.hashtag }})
-  {% endfor %} {% endfor %}
+{% endfor %}
 
-{% for group in site.data.faq %}
+{% for group in site.data.faq_groups %}
 
-# <a name="{{ group.hashtag }}"></a>{{ group.question }}
+{% assign group_path = '/' | append: group.path | downcase | append: '/' %}
 
-{% for item in group.items %}
+# {{ group.title }} {#{{group.hashtag}}}
 
-## <a name="{{ item.hashtag }}"></a>{{ item.question }}
+{% for item in site.faq %} {% if item.path contains group_path %}
 
-{{ item.answer }} {% endfor %} {% endfor %}
+## {{ item.question }} {#{{item.hashtag}}}
+
+{{ item.output }} {% endif %} {% endfor %} {% endfor %}

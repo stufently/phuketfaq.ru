@@ -13,10 +13,10 @@ module Jekyll
             |item|
             {
               "@type" => "Question",
-              "name" => item["question"],
+              "name" => item.question,
               "acceptedAnswer" => {
                 "@type" => "Answer",
-                "text" => item["answer"]
+                "text" => item.output
               }
             }
           })

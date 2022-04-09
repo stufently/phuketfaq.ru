@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-author     : PumainThailand
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+author: PumainThailand
+  # logo:     #optional, defaults to site title
+# path: assets\img\clients\creative-market.jpg
+# height: 60 #height in px, defaults to 52px
 
 title: Faq
 email: pumainthailand.com@gmail.com
@@ -36,6 +36,9 @@ permalink: pretty
 highlighter: rouge
 markdown: kramdown
 
+collections:
+  faq:
+    output: false
 
 # Build settings
 theme: minima
