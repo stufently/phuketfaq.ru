@@ -513,7 +513,7 @@
 - question: Дети
   hashtag: children
   items:
-    - question: ГДЕ ИСКАТЬ НЯНЮ?
+    - question: Где искать няню?
       hashtag: chdhphuketnynya
       ldjson: yes
       answer: |
