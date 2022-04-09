@@ -445,6 +445,13 @@
 - question: Правила,Законы,Службы
   hashtag: cpolitica
   items:
+    - question: Можно привезти свой дрон и использовать?
+      hashtag: pravanaupravleniedronom
+      ldjson: yes
+      answer: |
+       
+       Туристы могут ввозить свои дроны в Таиланд. Однако им не разрешается запускать дроны до тех пор, пока те не будут зарегистрированы в базе NBTC или в Управлении гражданской авиации (CAAT).
+    
     - question: Нужны ли права на пхукете для езды на байке?
       hashtag: pravanaupravlenie
       ldjson: yes
