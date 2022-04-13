@@ -6,7 +6,7 @@ hashtag: yoga
 
 На Пхукете можно круглый год не просто отдыхать, но и заниматься йогой. Йога-центры на Пхукете ориентированы на туристов из Европы, и преподают на английском, но понимают на занятиях даже те, кто не владеет языком.
 
-  [Kata Hot Yoga](https://goo.gl/maps/gpHCDPBG4RLMFVzv7). Ката Хот Йога - студия расположена вблизи пляжа [Ката бич](https://goo.gl/maps/VWW9deH59PJk8M5p6). Веб сайт: [katahotyoga.com](https://www.katahotyoga.com/)
+  [Kata Hot Yoga](https://goo.gl/maps/gpHCDPBG4RLMFVzv7) - студия расположена вблизи пляжа [Ката бич](https://goo.gl/maps/VWW9deH59PJk8M5p6). Веб сайт: [katahotyoga.com](https://www.katahotyoga.com/)
 
   [5 Elements](https://goo.gl/maps/bEcFrHsBsKCYumur7) - хорошо оборудованная студия горячей йоги с собственными номерами. Удивительные и интенсивные занятия бросают вызов как разуму, так и телу. Основные моменты включают класс ареальной йоги и качественную паровую баню, которые редко можно найти. Подходит как новичкам, так и опытным йогам. Веб сайт: [5elementshotyogaphuket.com](https://www.5elementshotyogaphuket.com/)
   
