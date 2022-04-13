@@ -10,4 +10,4 @@ hashtag: tigry
 
   [Tiger Park Phuket](https://g.page/tigerparkphuket?share) – новый парк с тиграми на Пхукете по дороге на [Биг Будду](https://g.page/BigBuddhaPhuket?share). Цена не зависит от возраста, для детей и взрослых она одинакова, новорожденные тигрята (2-4 месяца) - 1300 бат, маленькие тигрята (5-10 месяцев) - 900 бат, средние тигры (11-15 месяцев) - 900 бат, взрослые (16-36 месяцев) - 1000 бат. Есть услуги фотографа, можно снимать на свой телефон. Территория небольшая, но отличные эмоции и впечатления гарантированы. Веб сайт: [www.tigerparkphuket.com](www.tigerparkphuket.com)
 
-![Тигры на Пхукете](phuketfaq.ru/assets/images/tigra.jpeg)
+![Тигры на Пхукете](https://phuketfaq.ru/assets/images/tigra.jpeg)
