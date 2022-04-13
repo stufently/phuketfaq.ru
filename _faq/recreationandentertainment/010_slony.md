@@ -25,4 +25,5 @@ hashtag: slony
 [Seaview Elephant Camp](https://goo.gl/maps/c1uZDv55YKa2WwGR7) Часы работы фермы ежедневно, с 8:30 утра до 17:00 вечера.
 
 [Camp Chang Kalim](https://goo.gl/maps/jr2QS38Ah7MpCzaK8), расположен на склоне холма, между пляжами [Калим](https://goo.gl/maps/JBYdWqvzxmLYteVs9) и [Камала](https://goo.gl/maps/hkAoWwMenviz5SyBA). Часы работы с 08:00 до 18:30 часов. Веб сайт: https://kalim-elephant-camp-by-camp-chang-kalim.business.site/
+
 ![Фото](https://phuketfaq.ru/assets/images/slony1.jpeg)
