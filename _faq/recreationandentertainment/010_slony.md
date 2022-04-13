@@ -10,20 +10,20 @@ hashtag: slony
 
 Самые известные слоновьи фермы на Пхукете:
 
-[Elephant Jungle Sanctuary](https://g.page/ejsphuket?share) - по отзывам действительно одно из лучших мест, где о слонах заботятся. Животные ухоженные и красивые. Веб сайт: https://elephantjunglesanctuary.com/phuket/
+[Elephant Jungle Sanctuary](https://g.page/ejsphuket?share) - по отзывам действительно одно из лучших мест, где о слонах заботятся. Животные ухоженные и красивые. Веб сайт: [https://elephantjunglesanctuary.com/phuket/](https://elephantjunglesanctuary.com/phuket/)
 
-[Elephant Retirement Park Phuket](https://goo.gl/maps/r8Rj1jrkxFu2wrCq5) - заповедник для спасенных слонов с мероприятиями для посетителей (например, кормление и купание животных). В отличии от ферм-здесь нельзя кататься на слонах, но можно покормить, сфотографироваться, искупаться и тд. Животные ухоженные и видно что о них хорошо заботятся. Веб сайт: https://www.elephantretirementparkphuket.com/
+[Elephant Retirement Park Phuket](https://goo.gl/maps/r8Rj1jrkxFu2wrCq5) - заповедник для спасенных слонов с мероприятиями для посетителей (например, кормление и купание животных). В отличии от ферм-здесь нельзя кататься на слонах, но можно покормить, сфотографироваться, искупаться и тд. Животные ухоженные и видно что о них хорошо заботятся. Веб сайт: [https://www.elephantretirementparkphuket.com/](https://www.elephantretirementparkphuket.com/)
 
-[Green Elephant Sanctuary Park](https://goo.gl/maps/HmhdGknZfuwVxhb96) - заповедник для слонов. Здесь так же нельзя покататься, но можно прекрасно провести время среди свободно гуляющих слонов без цепей и веревок. Бонусом к экскурсии фотографы заповедника делают множество прекрасных фотографий и вы можете бесплатно скачать их на сайте через 2-3 дня. Посещение подходит для детей. Можно кормить, купать слонов и узнать много интересного. Веб сайт: https://www.green-elephantsanctuarypark.com/en/
+[Green Elephant Sanctuary Park](https://goo.gl/maps/HmhdGknZfuwVxhb96) - заповедник для слонов. Здесь так же нельзя покататься, но можно прекрасно провести время среди свободно гуляющих слонов без цепей и веревок. Бонусом к экскурсии фотографы заповедника делают множество прекрасных фотографий и вы можете бесплатно скачать их на сайте через 2-3 дня. Посещение подходит для детей. Можно кормить, купать слонов и узнать много интересного. Веб сайт: [https://www.green-elephantsanctuarypark.com/en/](https://www.green-elephantsanctuarypark.com/en/)
 
-[Elephant Wildlife Sanctuary Phuket](https://g.page/ElephantCarePhuket?share) - прекрасное место для семейного дня! Слоновий заповедник, где слоны живут подходящей для вида жизнью, и во время визита вы можете кормить и купаться с ними. В конце есть вкусный тайский шведский стол. Веб сайт: https://www.elephantwildlifesanctuary.com/
+[Elephant Wildlife Sanctuary Phuket](https://g.page/ElephantCarePhuket?share) - прекрасное место для семейного дня! Слоновий заповедник, где слоны живут подходящей для вида жизнью, и во время визита вы можете кормить и купаться с ними. В конце есть вкусный тайский шведский стол. Веб сайт: [https://www.elephantwildlifesanctuary.com/](https://www.elephantwildlifesanctuary.com/)
 
 [Siam Safari Nature Tours](https://goo.gl/maps/rmQnUApvvBwYioCd9), расположена по пути к [Phuket Big Buddha](https://g.page/BigBuddhaPhuket?share). Здесь можно покататься на слонах, покормить и посмотреть шоу. Слоны здесь в цепях.
 
-[Khok Chang Kata Safari](https://goo.gl/maps/vqeyHS5fkysuGh2k7), находится по пути к смотровой площадке [Karon View Point](https://goo.gl/maps/pNdrAuqvTsJN7ef86), если двигаться от [пляжей Ката](https://goo.gl/maps/dC7WSUmDXD48d3m9A). Первый поход начинается в 08:30, последний заканчивается в 17:30 (последние 50 минут похода начинаются около 16:30). Одна из самых недорогих ферм, где можно покататься на слонах. Веб сайт: https://www.kokchangsafari.com
+[Khok Chang Kata Safari](https://goo.gl/maps/vqeyHS5fkysuGh2k7), находится по пути к смотровой площадке [Karon View Point](https://goo.gl/maps/pNdrAuqvTsJN7ef86), если двигаться от [пляжей Ката](https://goo.gl/maps/dC7WSUmDXD48d3m9A). Первый поход начинается в 08:30, последний заканчивается в 17:30 (последние 50 минут похода начинаются около 16:30). Одна из самых недорогих ферм, где можно покататься на слонах. Веб сайт: [https://www.kokchangsafari.com](https://www.kokchangsafari.com)
 
 [Seaview Elephant Camp](https://goo.gl/maps/c1uZDv55YKa2WwGR7) Часы работы фермы ежедневно, с 8:30 утра до 17:00 вечера.
 
-[Camp Chang Kalim](https://goo.gl/maps/jr2QS38Ah7MpCzaK8), расположен на склоне холма, между пляжами [Калим](https://goo.gl/maps/JBYdWqvzxmLYteVs9) и [Камала](https://goo.gl/maps/hkAoWwMenviz5SyBA). Часы работы с 08:00 до 18:30 часов. Веб сайт: https://kalim-elephant-camp-by-camp-chang-kalim.business.site/
+[Camp Chang Kalim](https://goo.gl/maps/jr2QS38Ah7MpCzaK8), расположен на склоне холма, между пляжами [Калим](https://goo.gl/maps/JBYdWqvzxmLYteVs9) и [Камала](https://goo.gl/maps/hkAoWwMenviz5SyBA). Часы работы с 08:00 до 18:30 часов. Веб сайт: [https://kalim-elephant-camp-by-camp-chang-kalim.business.site/](https://kalim-elephant-camp-by-camp-chang-kalim.business.site/)
 
 ![Фото](https://phuketfaq.ru/assets/images/slony1.jpeg)
