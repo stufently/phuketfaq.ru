@@ -14,4 +14,6 @@ hashtag: yoga
 
 [The Yoga Shala Phuket](https://goo.gl/maps/qyLrJ8KgvKKDDfLc8) - отличная студия где преподают аштангу на русском и английском, так что языкового барьера нет. Веб сайт: [taysp.com](https://taysp.com/)
 
+[Yoga Rooftop](https://g.page/beloveyoga?share) - прекрасное место для тренировок на деревьях или на крыше на закате. Урок Аштанга йоги обойдется в 325 бат, вода и полотенце включены. Веб страница: [https://www.ccsecotours.com/tour-item/regular-classes/](https://www.ccsecotours.com/tour-item/regular-classes/)
+
 ![Йога на Пхукете в Таиланде](https://phuketfaq.ru/assets/images/yoga.jpeg)
