@@ -15,4 +15,4 @@ hashtag: funphucet
 
 [Suuko Spa Boondharik Experience](https://g.page/suukospa?share) предлагает множество услуг - от массажа до скрабов для тела. Также место прославилось благодаря удобному расположению – в самом сердце пышного леса. Благодаря опытным массажистам, ваше тело ощутит все преимущества использования натуральной линии продуктов.
 
-[Тайский массаж на Пхукете](https://phuketfaq.ru/assets/images/thaiMassage.jpeg)
+![Тайский массаж на Пхукете](https://phuketfaq.ru/assets/images/thaiMassage.jpeg)
