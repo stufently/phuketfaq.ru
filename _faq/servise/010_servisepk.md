@@ -14,6 +14,6 @@ hashtag: servisepk
 
 [X-computer service](https://g.page/fixnotebook?share) - ремонт любых компрьютеров. Также можно обратиться в случае необходимости обновить свой ПК. Страница в Facebook: [facebook.com/notebookthalang](https://www.facebook.com/notebookthalang/)
 
-[Phuket My Mac](https://g.page/phuketmymac?share) - наилучший сервис по ремонту MacBook'ов на Пхукете исходя из отзывов пользователей. Веб сайт:[phuketmymac.com](http://www.phuketmymac.com/)
+[Phuket My Mac](https://g.page/phuketmymac?share) - наилучший сервис по ремонту MacBook'ов на Пхукете исходя из отзывов пользователей. Веб сайт: [phuketmymac.com](http://www.phuketmymac.com/)
 
 ![Ремонт и чистка ноутбуков на Пхукете в Таиланде](https://phuketfaq.ru/assets/images/mac&acer.jpeg)
