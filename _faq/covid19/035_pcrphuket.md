@@ -4,4 +4,4 @@ ldjson: yes
 hashtag: pcrphuket
 ---
 
-Записаться на ПЦР можно прямо на [сайте](www.thailandpsas.com)
+Записаться на ПЦР можно прямо на [сайте](https://www.thailandpsas.com/)
