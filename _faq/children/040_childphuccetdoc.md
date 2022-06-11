@@ -8,6 +8,6 @@ hashtag: childphuccetdoc
 
 ### Вот несколько популярных мест, куда обращаются с детьми:
 
-* [Pediatric Clinic Doctor Panthita Phuket](https://goo.gl/maps/oHjzxBsPXC7ghgbk8) [Страница на Facebook](https://www.facebook.com/panthitaped/)
+* [Pediatric Clinic Doctor Panthita Phuket](https://goo.gl/maps/oHjzxBsPXC7ghgbk8) [Перейьт на траницу в Facebook](https://www.facebook.com/panthitaped/)
 * [Mission Hospital Phuket](https://goo.gl/maps/rgSksnqCAo9quaVSA) - работает круглосуточно. [Перейти на веб сайт](https://www.missionhospitalphuket.com/)
 * [Bangkok Hospital Siriroj](https://g.page/Bangkok-Hospital-Siriroj?share) - работает круглосуточно. [Перейти на веб сайт](https://phuketinternationalhospital.com/)
