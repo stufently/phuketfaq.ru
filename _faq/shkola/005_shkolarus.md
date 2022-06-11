@@ -7,8 +7,19 @@ hashtag: shkolarus
 
 Ходить в обычную российскую школу можно и на Пхукете. 
 
-[https://shkola-na-phukete.ru/](https://shkola-na-phukete.ru/)
+"РУССКАЯ ШКОЛА НА ПХУКЕТЕ" - обучают по русской программе!
 
-[https://taplink.cc/ispphuket_ru](https://taplink.cc/ispphuket_ru)
+Эта школа для:
+
+* зимовщиков
+* экспатов
+* подготовки к экзаменам
+* подготовки к 1 классу
+
+Веб сайт школы: [https://shkola-na-phukete.ru/](https://shkola-na-phukete.ru/)
+
+Еще одна русская школа ISP предлагает обучение в соответствии с федеральным образовательным стандартом России. Адаптируют программу обучения под каждого ученика, а также предлагают занятия для «зимовщиков». Программа, применяемая в этой школе, основана на принципах гуманной педагогики. 
+
+Веб сайт: [https://taplink.cc/ispphuket_ru](https://taplink.cc/ispphuket_ru)
 
 Instagram школы: [@ispphuket_ru](https://www.instagram.com/ispphuket_ru/)
