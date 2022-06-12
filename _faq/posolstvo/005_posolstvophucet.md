@@ -4,7 +4,11 @@ ldjson: yes
 hashtag: posolstvophucet
 ---
 
-* Консульство России в Phuket возглавляет Vladimir V. Sosnov ─ консул России в Таиланд. С консул можно связаться по телефону (+66) 95-259-80-81 или по электронной почте rusconsulphuket@gmail.com
+Консульство России на Пхукете возглавляет Vladimir V. Sosnov ─ консул России в Таиланде. С консулом можно связаться по телефону (+66) 95-259-80-81 или по электронной почте rusconsulphuket@gmail.com
+
+Адрес:
 
 Thailand - 63/501 Moo 2 - Thepkasattri Road - Kohkaew - Amphoe Mueang - Phuket 83100 — Thailand
-![Фото](https://phuketfaq.ru/assets/images/rus.jpeg)
+
+[Посмотреть на карте](https://goo.gl/maps/A2XdVeKJjzDsjbSW6)
+![Посольство России на Пхукете в Таиланде](https://phuketfaq.ru/assets/images/rus.jpeg)
