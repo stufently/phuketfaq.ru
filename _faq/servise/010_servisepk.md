@@ -8,7 +8,7 @@ hashtag: servisepk
 
 Вот для вас топ 4 сервисов ремонта ноутбуков и компьютеров на Пхукете с положительной репутацией.
 
-[Laptop Repair Phuket](https://g.page/Laptopphuket?share) - сервис позиционирует себя как ремонт ноутбуков, но всегда можно уточнить о возможности ремонта иных девайсов. Страница в Facebook: [facebook.com/Laptopphuket](facebook.com/Laptopphuket)
+[Laptop Repair Phuket](https://g.page/Laptopphuket?share) - сервис позиционирует себя как ремонт ноутбуков, но всегда можно уточнить о возможности ремонта иных девайсов. Страница в Facebook: [facebook.com/Laptopphuket](https://www.facebook.com/Laptopphuket/)
 
 [Acer Computer Co., Ltd.](https://goo.gl/maps/sKBGt413knmnDou1A) - ремонт ноутбуков и сопутствующей электроники фирмы Acer. 
 
