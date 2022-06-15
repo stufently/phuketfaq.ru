@@ -10,7 +10,7 @@ hashtag: allin
 
 Возле пляжа Най-Янг есть два таких небольших рынка:
 
-[Local market](https://goo.gl/maps/hDgb2wwjg3sWqNVh8) - работает только два дня в неделю,понедельник и среду - с 16-00 до 19-00.
+[Local market](https://goo.gl/maps/hDgb2wwjg3sWqNVh8) - работает только два дня в неделю, понедельник и среду - с 16-00 до 19-00.
 
 [Nai Yang Fresh Market](https://goo.gl/maps/79qg2rCGaJiD7Rde8) - работает во вторник, четверг, субботу и воскресенье с 16:00 до 19:00. 
 
