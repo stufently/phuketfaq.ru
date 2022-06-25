@@ -1,5 +1,5 @@
 ---
-question: Как называеться пляж с самолетами на Пхукете?
+question: Как называется пляж с самолетами на Пхукете?
 ldjson: yes
 hashtag: phuketplazhsamolet
 ---
