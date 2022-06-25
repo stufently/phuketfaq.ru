@@ -1,5 +1,5 @@
 ---
-question: Есть ли русская школа на пхукете?
+question: Есть ли русская школа на Пхукете?
 ldjson: yes
 hashtag: shkolarus
 ---
