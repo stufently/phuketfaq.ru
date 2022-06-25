@@ -1,5 +1,5 @@
 ---
-question: Когда в Пхукете начинается сезон дождей?
+question: Когда на Пхукете начинается сезон дождей?
 ldjson: yes
 hashtag: pododadojd
 ---
