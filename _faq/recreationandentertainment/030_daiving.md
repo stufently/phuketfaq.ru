@@ -1,5 +1,5 @@
 ---
-question: Лучшие места для дайвинга на пхукете
+question: Лучшие места для дайвинга на Пхукете
 ldjson: yes
 hashtag: daiving
 ---
