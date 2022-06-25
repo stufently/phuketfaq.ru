@@ -1,5 +1,5 @@
 ---
-question: Такси на пхукете.
+question: Такси на Пхукете.
 ldjson: yes
 hashtag: taksiphucet
 ---
