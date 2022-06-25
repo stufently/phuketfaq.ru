@@ -1,5 +1,5 @@
 ---
-question: Есть ли доставка еды на пхукете?
+question: Есть ли доставка еды на Пхукете?
 ldjson: yes
 hashtag: dostavka
 ---
@@ -16,4 +16,4 @@ hashtag: dostavka
 Русское кафе «Алтай» на пляже Ката [(посмотреть на карте)](https://g.page/Altaiphuket?share) — доставка есть по всему острову. Досточно большое меню с русскими и тайскими блюдами. [Алтай Сайт](https://foodmenu.online/Altai)
 Есть возможность заказа через Телеграм бота: [@Altaifoodbot](https://t.me/Altaifoodbot)
 
-VERANDA [(посмотреть на карте)](https://goo.gl/maps/kQKTZajTAtkqDkfw7) - Вкусно, доступно, как русская кухня так и тайская. Можно сделать заказ через  [Instagram](https://www.instagram.com/verandaphuket)
+VERANDA [(посмотреть на карте)](https://goo.gl/maps/kQKTZajTAtkqDkfw7) - Вкусно, доступно, как русская кухня, так и тайская. Можно сделать заказ через  [Instagram](https://www.instagram.com/verandaphuket)
