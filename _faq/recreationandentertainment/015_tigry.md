@@ -1,5 +1,5 @@
 ---
-question: Где есть тигры на пхукете?  
+question: Где есть тигры на Пхукете?  
 ldjson: yes
 hashtag: tigry
 ---
