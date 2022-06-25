@@ -1,5 +1,5 @@
 ---
-question: Есть ли аренда яхт на пхукете?
+question: Есть ли аренда яхт на Пхукете?
 ldjson: yes
 hashtag: rentayahta
 ---
