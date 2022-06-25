@@ -1,5 +1,5 @@
 ---
-question: Какой выбрать отель на пхукете с детьми?
+question: Какой выбрать отель на Пхукете с детьми?
 ldjson: yes
 hashtag: chdhphuketotel
 ---
