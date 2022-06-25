@@ -1,5 +1,5 @@
 ---
-question: Пляжи пхукета для детей
+question: Пляжи Пхукета для детей
 ldjson: yes
 hashtag: phuketplazhdeti
 ---
