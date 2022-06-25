@@ -1,5 +1,5 @@
 ---
-question: Русское такси на пхукете.
+question: Русское такси на Пхукете.
 ldjson: yes
 hashtag: taksiphucetrus
 ---
