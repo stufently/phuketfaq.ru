@@ -1,5 +1,5 @@
 ---
-question: Дикие Пляжи пхукета.
+question: Дикие пляжи Пхукета.
 ldjson: yes
 hashtag: phuketplazhdikiy
 ---
