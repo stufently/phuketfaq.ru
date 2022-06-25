@@ -1,5 +1,5 @@
 ---
-question: Где православный храм на пхукете?
+question: Где православный храм на Пхукете?
 ldjson: yes
 hashtag: khramphuketprovoslavny
 ---
