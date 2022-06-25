@@ -1,5 +1,5 @@
 ---
-question: Где поплавать на лодке на пхукете? 
+question: Где поплавать на лодке на Пхукете? 
 ldjson: yes
 hashtag: boat
 ---
