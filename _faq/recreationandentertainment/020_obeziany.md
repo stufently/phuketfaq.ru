@@ -1,5 +1,5 @@
 ---
-question: Где посмотреть обезьян на пхукете? 
+question: Где посмотреть обезьян на Пхукете? 
 ldjson: yes
 hashtag: obeziany
 ---
