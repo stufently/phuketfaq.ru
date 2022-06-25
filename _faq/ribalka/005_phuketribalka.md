@@ -1,5 +1,5 @@
 ---
-question: Какая есть рыбалка на пхукете.
+question: Какая есть рыбалка на Пхукете?
 ldjson: yes
 hashtag: phuketribalka
 ---
