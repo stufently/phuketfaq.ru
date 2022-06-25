@@ -1,5 +1,5 @@
 ---
-question: Разрешена ли рыбалка на пхукете с берега.
+question: Разрешена ли рыбалка на Пхукете с берега?
 ldjson: yes
 hashtag: phuketribalkabereg
 ---
