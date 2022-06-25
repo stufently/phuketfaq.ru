@@ -1,5 +1,5 @@
 ---
-question: Где находиться фруктовый рынок на пхукете?
+question: Где находиться фруктовый рынок на Пхукете?
 ldjson: yes
 hashtag: phucetrinok
 ---
