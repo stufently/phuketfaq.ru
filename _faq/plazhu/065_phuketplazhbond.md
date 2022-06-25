@@ -1,5 +1,5 @@
 ---
-question: Как попасть на остров Джеймса Бонда на пхукете?
+question: Как попасть на остров Джеймса Бонда на Пхукете?
 ldjson: yes
 hashtag: phuketplazhbond
 ---
