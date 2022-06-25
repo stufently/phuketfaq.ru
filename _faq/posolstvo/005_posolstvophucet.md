@@ -1,5 +1,5 @@
 ---
-question: Где находиться посольство россии на пхукете?
+question: Где находиться посольство россии на Пхукете?
 ldjson: yes
 hashtag: posolstvophucet
 ---
