@@ -1,5 +1,5 @@
 ---
-question: Как найти мастера тату на пхукете?
+question: Как найти мастера тату на Пхукете?
 ldjson: yes
 hashtag: tatu
 ---
@@ -8,7 +8,7 @@ hashtag: tatu
 
 Рассмотрим самые известные салоны на Пхукете.
 
-[Golden Needle Tatoo](http://www.goldenneedle-tattoos.com/) — студия расположилась в Пхукет-тауне, около входа в парк Рамы IX, по адресу 62/14 Chaofa Rd. Tambon Talad-Nua, Ampher Moung Phuket 83000 Thailand [Посмотреть на карте](https://goo.gl/maps/pqA51nRzUWasp52N9) Ее двери открыты с 12.30 до 21.30. Владелец салона Чарт Хемтонг имеет 20-летний опыт в татуаже. Тату набивают специальными электронными машинками, которые считаются одними из лучших в области гигиены. Инстаграм студии: [@goldenneedletatoo](https://www.instagram.com/goldenneedletattoo/)
+[Golden Needle Tatoo](http://www.goldenneedle-tattoos.com/) — студия расположилась в Пхукет-тауне, около входа в парк Рамы IX, по адресу 62/14 Chaofa Rd. Tambon Talad-Nua, Ampher Moung Phuket 83000 Thailand [Посмотреть на карте](https://goo.gl/maps/pqA51nRzUWasp52N9) Ее двери открыты с 12.30 до 21.30. Владелец салона Чарт Хемтонг имеет 20-летний опыт в татировке. Тату набивают специальными электронными машинками, которые считаются одними из лучших в области гигиены. Инстаграм студии: [@goldenneedletatoo](https://www.instagram.com/goldenneedletattoo/)
 
 [Old Man Tattoos](http://www.oldmantattoosphuket.com/) — салон известен качеством тату и высоким уровнем гигиены. Он функционирует с 1999 года, что делает его одним из самых старых на острове. Мастер салона Джон работает над тату в восточно-японском стиле, используя черный и серый оттенки. Салон расположен в Пхукет-Тауне, работает с 10.30 до 22.30. Адрес: 134 Phangnga Rd, Tambon Talat Yai, Mueang Phuket District, Phuket 83000 [Посмотреть на карте](https://g.page/OldManTattoosPhuket?share)
 
