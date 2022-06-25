@@ -1,5 +1,5 @@
 ---
-question: Где купить русские продукты на пхукете?
+question: Где купить русские продукты на Пхукете?
 ldjson: yes
 hashtag: russianproduct
 ---
