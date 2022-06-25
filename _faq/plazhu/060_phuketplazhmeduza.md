@@ -1,5 +1,5 @@
 ---
-question: Есть ли медузы на пхукете?
+question: Есть ли медузы на Пхукете?
 ldjson: yes
 hashtag: phuketplazhmeduza
 ---
