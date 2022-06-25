@@ -1,5 +1,5 @@
 ---
-question: Как открыть счет в банке на пхукете?
+question: Как открыть счет в банке на Пхукете?
 ldjson: yes
 hashtag: schetvbanke
 ---
