@@ -1,5 +1,5 @@
 ---
-question: Как найти жилье на пхукете?
+question: Как найти жилье на Пхукете?
 ldjson: yes
 hashtag: julienaphucete
 ---
