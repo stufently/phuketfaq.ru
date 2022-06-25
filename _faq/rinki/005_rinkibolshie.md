@@ -1,5 +1,5 @@
 ---
-question: Самые большие рынки пхукета.
+question: Самые большие рынки Пхукета.
 ldjson: yes
 hashtag: rinkibolshie
 ---
