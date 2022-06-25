@@ -1,5 +1,5 @@
 ---
-question: Где находиться пхукет таун?
+question: Где находится Пхукет Таун?
 ldjson: yes
 hashtag: phucettown
 ---
