@@ -1,5 +1,5 @@
 ---
-question: Нужны ли права на пхукете для езды на байке?
+question: Нужны ли права на Пхукете для езды на байке?
 ldjson: yes
 hashtag: pravanaupravlenie
 ---
