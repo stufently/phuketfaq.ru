@@ -1,5 +1,5 @@
 ---
-question: Какие самые чистые пляжи пхукета?
+question: Какие самые чистые пляжи Пхукета?
 ldjson: yes
 hashtag: phuketplazhchustii
 ---
