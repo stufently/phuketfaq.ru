@@ -1,5 +1,5 @@
 ---
-question: На пхукете есть акулы?
+question: На Пхукете есть акулы?
 ldjson: yes
 hashtag: phuketacula
 ---
